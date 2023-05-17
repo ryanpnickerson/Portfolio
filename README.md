@@ -1,5 +1,5 @@
 # Data Science Portfolio - Ryan Nickerson
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done. This portfolio also contains my Achievements, skills, and certificates.
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done. This portfolio also contains my Achievements, skills, and certificates. I am currently looking for a new and excited role as a data scientist, research scientist, technical product manager, or data analytics manager. Please feel free to look at my resume below and reach out to me to connect! Thank you for looking at my portfolio!
 
 - **Email**: [ryanpnickerson@gmail.com](ryanpnickerson@gmail.com)
 - **LinkedIn**: [linkedin.com/ryan-nickerson-a27013134](https://www.linkedin.com/in/ryan-nickerson-a27013134/)
