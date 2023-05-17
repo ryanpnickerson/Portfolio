@@ -15,10 +15,10 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 ## Micro Projects
 
 - ### Project Euler Solutions
-    - [Linear Algebra]()
-    - [Sequences]() 
-    - [Big Numbers]()
-    - [Misc.]()
+    - [Linear Algebra](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Euler/Linear%20Algebra)
+    - [Sequences](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Euler/Sequences) 
+    - [Big Numbers](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Euler/Big%20Numbers)
+    - [Misc.](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Euler/Misc)
  
 ## Core Competencies
 
