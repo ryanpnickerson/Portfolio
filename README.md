@@ -3,6 +3,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 - **Email**: [ryanpnickerson@gmail.com](ryanpnickerson@gmail.com)
 - **LinkedIn**: [linkedin.com/ryan-nickerson-a27013134](https://www.linkedin.com/in/ryan-nickerson-a27013134/)
+- **Resume**: 
 
 ## Achievements
 
@@ -16,9 +17,17 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
  
 ## Core Competencies
 
-- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, C++
-- **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
+- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Regression, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics, GeoPandas, Agile
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, MongoDB, PHP
+- **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), ArcGIS, QGIS, MS Excel, Kubernetes
 
 ## Certificates
 
+- [SQL Test By HackerRank]()
+- [SQL Test By Testdome]()
+- [Data Science Test By Testdome]()
+- [LinkedIn Machine Learning Skill Assessment]()
+- [LinkedIn Python Programming Skill Assessment]()
+- [LinkedIn R Programming Skill Assessment]()
+- [LinkedIn MySQL Skill Assessment]()
+- [LinkedIn Microsoft Excel Skill Assessment]()
