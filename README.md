@@ -3,8 +3,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 - **Email**: [ryanpnickerson@gmail.com](ryanpnickerson@gmail.com)
 - **LinkedIn**: [linkedin.com/ryan-nickerson-a27013134](https://www.linkedin.com/in/ryan-nickerson-a27013134/)
-- **Resume**: 
-<img align="center" width="250" height="450" src="https://github.com/ryanpnickerson/Portfolio/blob/main/Images/RNickerson_resume.pdf">
+- **Resume**: [Data Scientist](https://github.com/ryanpnickerson/Portfolio/blob/main/Images/RNickerson_resume.pdf)
 
 ## Achievements
 
