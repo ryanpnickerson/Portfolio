@@ -10,6 +10,9 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
+<img align="left" width="250" height="150" src="https://github.com/ryanpnickerson/Portfolio/blob/main/Images/Homeowners-Insurance.png"> **[Homeowner's Insurance Quote Conversion]()**
+
+In this project I used logistic regression, random forest, and deep learning to determine the strongest parameters for sucessfully converting a homeowner's insurance quote. The data set history was short and the number of parameters provided were limited. Although a high level of model accuracy was not obtained, valuable insight was gained into what makes for a succesful quote conversion.
 
 
 ## Micro Projects
