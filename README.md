@@ -14,11 +14,12 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Micro Projects
 
-- ### Project Euler Programming Solutions
-          -[Linear Algebra]()
-          -[Sequences]()
-          -[Big Numbers]()
-          -[Misc.]()
+- ### Project Euler Solutions
+    - [Genetic Algorithm]()
+    - [Bayesian Statistics]() 
+    - [Gaussian Mixture Model and Expectation Maximization]()
+    - [Linear Regression]()
+    - [Neural Network Implementation]()
  
 ## Core Competencies
 
