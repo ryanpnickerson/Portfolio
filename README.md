@@ -24,7 +24,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 ## Certificates
 
 - [SQL Test By HackerRank]()
-- [SQL Test By Testdome]()
+- [SQL Test By Testdome](https://www.testdome.com/certificates/1a588debef604cc091c94ea4c909a9fb)
 - [Python Test By Testdome](https://www.testdome.com/certificates/5da11519f3994c76990c065d403b7de6)
 - [LinkedIn Machine Learning Skill Assessment](https://github.com/ryanpnickerson/Portfolio/blob/main/Certificates/MachineLearningBadge.png)
 - [LinkedIn Python Programming Skill Assessment](https://github.com/ryanpnickerson/Portfolio/blob/main/Certificates/PythonBadge.png)
