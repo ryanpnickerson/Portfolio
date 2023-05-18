@@ -21,6 +21,12 @@ valuable insight was gained into what makes for a succesful quote conversion.
 
 In this project I used data from the last 100 Kentucky Derbies to create the ideal horse and jockey pairing. At the end I played around with logistic regression to predict how likely a horse and jockey were to win, place, and/or show.
 
+#
+
+<img align="left" width="250" height="150" src="https://github.com/ryanpnickerson/Portfolio/blob/main/Images/datamap.png"> **[Using Maps to Explain Complex Demographic Datasets]()**
+
+In this project I looked at a dataset that was geospatially tied to a location. I first plot the data using standard means (line graphs, bar charts, histograms, etc.) and later show how using a map can drastically increase the readability of the dataset.
+
 <br />
 
 ## Micro Projects
