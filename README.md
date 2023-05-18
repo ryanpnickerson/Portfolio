@@ -45,10 +45,10 @@ In this project I wanted to come up with a loose roadmap of how LinkedIn could b
 ## Micro Projects
 
 - ### Project Euler Solutions
-    - [Linear Algebra](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Euler/Linear%20Algebra)
-    - [Sequences](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Euler/Sequences) 
-    - [Big Numbers](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Euler/Big%20Numbers)
-    - [Misc.](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Euler/Misc)
+    - [1-25](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Euler/1-25)
+    - [26-50](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Euler/26-50) 
+    - [52-75](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Euler/51-75)
+    - [76-100](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Euler/76-100)
  
 ## Core Competencies
 
