@@ -12,13 +12,16 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 <img align="left" width="250" height="150" src="https://github.com/ryanpnickerson/Portfolio/blob/main/Images/Homeowners-Insurance.png"> **[Homeowner's Insurance Quote Conversion](https://github.com/ryanpnickerson/Portfolio/blob/main/Project%20Analysis/Homeowner%20Quotes/488a590ba83845e1af5a11495ec7b538.ipynb)**
 
-In this project I used logistic regression, random forest, and deep learning to determine the strongest parameters for sucessfully converting a homeowner's insurance quote. The data set history was short and the number of parameters provided were limited. Although a high level of model accuracy was not obtained, valuable insight was gained into what makes for a succesful quote conversion.
+In this project I used logistic regression, random forest, and deep learning to determine the strongest parameters for sucessfully converting a homeowner's insurance quote. The data set history was short and the number of parameters provided were limited. Although a high level of model accuracy was not obtained, 
+valuable insight was gained into what makes for a succesful quote conversion.
+
+#
 
 <img align="left" width="250" height="150" src="https://github.com/ryanpnickerson/Portfolio/blob/main/Images/horserace.jpg"> **[And they're off! Using statistics to predict Kentucky Derby winner]()**
 
 In this project I used data from the last 100 Kentucky Derbies to create the ideal horse and jockey pairing. At the end I played around with logistic regression to predict how likely a horse and jockey were to win, place, and/or show.
 
-
+<br />
 ## Micro Projects
 
 - ### Project Euler Solutions
