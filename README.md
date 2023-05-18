@@ -18,6 +18,7 @@ In this project I used logistic regression, random forest, and deep learning to 
 
 In this project I used data from the last 100 Kentucky Derbies to create the ideal horse and jockey pairing. At the end I played around with logistic regression to predict how likely a horse and jockey were to win, place, and/or show.
 
+
 ## Micro Projects
 
 - ### Project Euler Solutions
