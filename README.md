@@ -7,6 +7,11 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Achievements
 
+- Major contributor on a contract proposal worth over one million usd annually
+- Five technician advisees promoted to analysts this year
+- Reduced manual time spent on report generation and delivery by over 80%
+- Omnicron Delta Epsilon member
+- Mu Alpha Theta member
 
 ## Projects
 
