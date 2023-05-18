@@ -33,6 +33,13 @@ In this project I used data from the last 100 Kentucky Derbies to create the ide
 
 In this project I looked at a dataset that was geospatially tied to a location. I first plot the data using standard means (line graphs, bar charts, histograms, etc.) and later show how using a map can drastically increase the readability of the dataset.
 
+#
+
+<img align="left" width="250" height="150" src="https://github.com/ryanpnickerson/Portfolio/blob/main/Images/studentjobs.jpg"> **[Elevator-esque Pitch Deck for Student Job Allocation App](https://github.com/ryanpnickerson/Portfolio/blob/main/Project%20Analysis/LinkedInApp/LinkedInStudentJobs.pdf)**
+
+In this project I wanted to come up with a loose roadmap of how LinkedIn could better incorporate students actively searching for a job in their platform. Are there better search criteria for students? Can the social network be introduced to students differently? How do you get colleges and universities involved?
+
+
 <br />
 
 ## Micro Projects
