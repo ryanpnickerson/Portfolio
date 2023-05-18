@@ -8,7 +8,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 ## Achievements
 
 - Major contributor on a contract proposal worth over one million usd annually
-- Five technician advisees promoted to analysts this year
+- Five technician mentees promoted to analysts this year
 - Reduced manual time spent on report generation and delivery by over 80%
 - Authored articles: [1](https://ursaspace.com/blog/nigeria-pipeline-break-results-in-force-majeure/), [2](https://ursaspace.com/blog/shandong-refiners-challenged-by-tax/), [3](https://ursaspace.com/blog/crude-oil-inventories-following-opec-conference/)
 - Co-authored Use Case: [Iran Nuclear Deal, Imposing Sanctions, Predicting Iran Crude Production](https://ursaspace.com/wp-content/uploads/2021/09/Forecasting-Iranian-Production-Use-Case.pdf)
@@ -44,10 +44,10 @@ In this project I wanted to come up with a loose roadmap of how LinkedIn could b
 
 ## Micro Projects
 
-- ### Project Euler Solutions
+- ### Project Euler Solutions (Work in progress)
     - [1-25](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Euler/1-25)
     - [26-50](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Euler/26-50) 
-    - [52-75](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Euler/51-75)
+    - [51-75](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Euler/51-75)
     - [76-100](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Euler/76-100)
  
 ## Core Competencies
