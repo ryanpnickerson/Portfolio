@@ -23,9 +23,15 @@ valuable insight was gained into what makes for a succesful quote conversion.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/ryanpnickerson/Portfolio/blob/main/Images/datamap.png"> **[Using Maps to Visualize Complex Geospatial Datasets]()**
+<img align="left" width="250" height="150" src="https://github.com/ryanpnickerson/Portfolio/blob/main/Images/datamap.png"> **[Using Maps to Visualize Complex Geospatial Datasets](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Analysis/MapVisualizations)**
 
 In this project I looked at a dataset that was geospatially tied to a location. I first plot the data using standard means (line graphs, bar charts, histograms, etc.) and later show how using a map can drastically increase the readability of the dataset.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/ryanpnickerson/Portfolio/blob/main/Images/premierleague.png"> **[Predicting the Outcome of the Final Weeks of the Premier League]()** (Work in progress)
+
+In this project I wanted to attempt to predict the outcome of the final 5 match weeks of the Premier League. I compiled my own dataset of matchweek statistics over the last few seasons, split my dataset 80/20 for training and testing, then showed how my models' predictions differed from the actual results. I will be using multivariate regressions and time series analysis to train my models.
 
 #
 
