@@ -35,10 +35,15 @@ In this project I wanted to attempt to predict the outcome of the final 5 match 
 
 #
 
+<img align="left" width="250" height="150" src="https://github.com/ryanpnickerson/Portfolio/blob/main/Images/birthdayparadox.jpg"> **[Birthday Paradox Simulation](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Analysis/BirthdayParadox)**
+
+In this project I simulated the Birthday Paradox 1,000 times to see if it really is true that the 23rd person in a room full of strangers is as likely to share a birthay with someone else in the room as getting heads in a coin flip.
+
+#
+
 <img align="left" width="250" height="150" src="https://github.com/ryanpnickerson/Portfolio/blob/main/Images/studentjobs.jpg"> **[Elevator-esque Pitch Deck for Student Job Allocation App](https://github.com/ryanpnickerson/Portfolio/blob/main/Project%20Analysis/LinkedInApp/LinkedInStudentJobs.pdf)**
 
 In this project I wanted to come up with a loose roadmap of how LinkedIn could better incorporate students actively searching for a job in their platform. Are there better search criteria for students? Can the social network be introduced to students differently? How do you get colleges and universities involved?
-
 
 <br />
 
