@@ -20,13 +20,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 In this project I used logistic regression, random forest, and deep learning to determine the strongest parameters for sucessfully converting a homeowner's insurance quote. The data set history was short and the number of parameters provided were limited. Although a high level of model accuracy was not obtained, 
 valuable insight was gained into what makes for a succesful quote conversion.
 
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/ryanpnickerson/Portfolio/blob/main/Images/datamap.png"> **[Using Maps to Visualize Complex Geospatial Datasets](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Analysis/MapVisualizations)**
-
-In this project I looked at a dataset that was geospatially tied to a location. I first plot the data using standard means (line graphs, bar charts, histograms, etc.) and later show how using a map can drastically increase the readability of the dataset.
-
 #
 
 <img align="left" width="250" height="150" src="https://github.com/ryanpnickerson/Portfolio/blob/main/Images/premierleague.png"> **[Predicting the Outcome of the Final Weeks of the Premier League]()** (Work in progress)
@@ -41,13 +34,31 @@ In this project I simulated the Birthday Paradox 1,000 times to see if it really
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/ryanpnickerson/Portfolio/blob/main/Images/studentjobs.jpg"> **[Elevator-esque Pitch Deck for Student Job Allocation App](https://github.com/ryanpnickerson/Portfolio/blob/main/Project%20Analysis/LinkedInApp/LinkedInStudentJobs.pdf)**
+<img align="left" width="250" height="150" src="https://github.com/ryanpnickerson/Portfolio/blob/main/Images/5f8993b6a2e839e7e039ba1e_store-locator.jpg"> **[Retail Sales Forecast by Location](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Analysis/Store%20Location%20Analysis)**
 
-In this project I wanted to come up with a loose roadmap of how LinkedIn could better incorporate students actively searching for a job in their platform. Are there better search criteria for students? Can the social network be introduced to students differently? How do you get colleges and universities involved?
+In this project I created a potential sales forecast of new location based on area demographics, sales of other locations, proximity to another store in the same chain, and proximity to a competitor. The data sets used were limited to only locations in California and were forecasted using regression.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/ryanpnickerson/Portfolio/blob/main/Images/car-recall-notice-repair.png"> **[Forecasting Automotive Recall Campaigns](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Analysis/Automotive%20Recall%20Campaign)**
+
+In this project I created a customizable dashboard where the user can input the desired make, model, timeline, and recall campaigns of interest. After submitting your selections in the filter the dashboard populates with various different charts of summary statistics and time series forecast predictions. Time series forecasts were calculated using a SARIMA model.
 
 <br />
 
 ## Micro Projects
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/ryanpnickerson/Portfolio/blob/main/Images/studentjobs.jpg"> **[Elevator-esque Pitch Deck for Student Job Allocation App](https://github.com/ryanpnickerson/Portfolio/blob/main/Project%20Analysis/LinkedInApp/LinkedInStudentJobs.pdf)**
+
+In this project I wanted to come up with a loose roadmap of how LinkedIn could better incorporate students actively searching for a job in their platform. Are there better search criteria for students? Can the social network be introduced to students differently? How do you get colleges and universities involved?
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/ryanpnickerson/Portfolio/blob/main/Images/datamap.png"> **[Using Maps to Visualize Complex Geospatial Datasets](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Analysis/MapVisualizations)**
+
+In this project I looked at a dataset that was geospatially tied to a location. I first plot the data using standard means (line graphs, bar charts, histograms, etc.) and later show how using a map can drastically increase the readability of the dataset.
 
 - ### Project Euler Solutions (Work in progress)
     - [1-25](https://github.com/ryanpnickerson/Portfolio/tree/main/Project%20Euler/1-25)
